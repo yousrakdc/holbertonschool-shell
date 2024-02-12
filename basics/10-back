@@ -1,2 +1,2 @@
 #!/bin/bash
-source ./10-back
+cd .
