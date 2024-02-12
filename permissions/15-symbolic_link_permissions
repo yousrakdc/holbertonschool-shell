@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo _hello vincent:staff
+sudo vincent:staff _hello
