@@ -1,2 +1,2 @@
 #!/bin/bash
-cp "$file" "../"
+cp -u /tmp/14-copy_html/*.html /tmp/
