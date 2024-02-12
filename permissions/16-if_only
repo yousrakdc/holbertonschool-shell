@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp -h:guillaume vincent hello
