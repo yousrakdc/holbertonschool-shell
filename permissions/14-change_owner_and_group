@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown 700 vincent staff
+chown -R vincent:staff
