@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /var/tmp/
+source ./10-back
