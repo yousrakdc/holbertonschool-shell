@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown ./hello betty
+touch hello && useradd betty && ./3-new_owner && ls -l hello
