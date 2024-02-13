@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "Best School" | mkdir "" \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)""
+file_name='\*\\'"Best School"\'\\*\$\?\*\*\*\*\*:)' | echo "Best School" > "$file_name" | 
