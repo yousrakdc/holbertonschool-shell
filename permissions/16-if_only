@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vincent[:guillaume] hello
+sudo chown -R vincent[:root] hello
