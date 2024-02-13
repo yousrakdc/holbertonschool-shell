@@ -1,2 +1,2 @@
 #!/bin/bash
-find C c -delete
+tr -d Cc
