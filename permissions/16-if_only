@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp guillaume:vincent hello
+touch hello ; useradd vincent ; useradd guillaume ; chown guillaume hello
