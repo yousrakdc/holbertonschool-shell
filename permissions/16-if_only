@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR vincent hello
+chown -hR root:vincent hello
