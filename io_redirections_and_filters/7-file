@@ -1,2 +1,3 @@
 #!/bin/bash
-touch '\*\\''"Best School"\''\\*$\?\*\*\*\*\*:)' | cat "Best School"  
+cat > se.txt \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | touch "$(< se.txt )"
+
