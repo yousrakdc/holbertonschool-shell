@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello ; useradd vincent ; useradd guillaume ; chown guillaume hello
+chown root:vincent /hello
