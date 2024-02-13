@@ -1,2 +1,2 @@
 #!/bin/bash
-cat > se.txt \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | touch "$(< se.txt )"
+rm -rf *Best* ; cat \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
