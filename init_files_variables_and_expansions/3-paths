@@ -1,2 +1,2 @@
 #!/bin/bash
-export -n PATH 
+echo $PATH | tr : $ | grep / | wc -l
