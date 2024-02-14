@@ -1,2 +1,2 @@
 #!/bin/bash
-foo () { Name="BEST"  value="School" }
+export "BEST=School"
