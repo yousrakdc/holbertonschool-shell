@@ -1,2 +1,2 @@
 #!/bin/bash
-$((2#101101)) | set = BINARY
+export BINARY=00101011 | echo $(( 2#$BINARY ))
