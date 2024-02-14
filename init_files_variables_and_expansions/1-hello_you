@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello MyUse
+echo "hello" $USER=Linux
