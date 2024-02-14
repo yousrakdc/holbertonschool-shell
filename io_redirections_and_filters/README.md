@@ -1,2 +1,1 @@
-#!/bin/bash
-hey
+I'm gonna die
