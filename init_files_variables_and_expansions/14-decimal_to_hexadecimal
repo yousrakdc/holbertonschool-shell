@@ -1,0 +1,2 @@
+#!/bin/bash
+printf -v DECIMAL "%x" 34 | echo $DECIMAL
