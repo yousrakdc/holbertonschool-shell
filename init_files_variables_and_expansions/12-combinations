@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((26 ** 2 -1)) | wc -l | tail -303 | head -10
+echo {a..z}{a..z} | tr | grep -v oo
